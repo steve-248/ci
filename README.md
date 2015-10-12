@@ -38,7 +38,7 @@
     git clone https://github.com/openfrontier/nginx-docker.git
     git clone https://github.com/openfrontier/ci.git
     git clone https://github.com/openfrontier/openldap-docker.git (Optional)
-    git clone https://github.com/openfrontier/nginx-docker.git (Optional)
+    git clone https://github.com/openfrontier/nexus-docker.git (Optional)
 
 ## Create all containers.
     ## Edit variables according to your environment.
